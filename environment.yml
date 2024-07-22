@@ -1,6 +1,12 @@
-name: Diatomic_HF
+name: QC_Demo
 channels:
   - conda-forge
 dependencies:
   - numpy
   - matplotlib
+  - rdkit
+  - py3Dmol
+  - pyscf
+  - ipython
+  - ipywidgets
+  - pandas
